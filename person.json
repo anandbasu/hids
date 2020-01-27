@@ -1,0 +1,17 @@
+[
+  {
+     "firstName": "John",
+     "lastName" : "Murkey",
+     "organization" : "Murkey Research"
+  },
+  {
+    "firstName": "Bugsey",
+    "lastName" : "Lawler",
+    "organization" : "Hewy, Dewey, and Louie"
+ },
+ {
+  "firstName": "Bernie",
+  "lastName" : "Sanders",
+  "organization" : "Medicare for All"
+}
+]
